@@ -20,17 +20,19 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
+👤 ** Oluyemi Paul **
+
+- GitHub: [@githubhandle](https://github.com/Ol-create)
+- Twitter: [@twitterhandle](https://twitter.com/OluyemiPaul2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/paul-oluyemi-193966ab/)
+
 👤 **Luis David Rodriguez Valades **
 
 - GitHub: [@githubhandle](https://github.com/LuisDavidRodriguez)
 - LinkedIn: [profile](https://www.linkedin.com/in/luis-david-rodriguez-valades)
 - Youtube: [chanel](https://www.youtube.com/channel/UChuA4SgdDYk2DHStsy7HEgQ)
 
-👤 ** Oluyemi Paul **
 
-- GitHub: [@githubhandle](https://github.com/Ol-create)
-- Twitter: [@twitterhandle](https://twitter.com/OluyemiPaul2)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/paul-oluyemi-193966ab/)
 
 ## 🤝 Contributing
 
